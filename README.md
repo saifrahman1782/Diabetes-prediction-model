@@ -1,2 +1,2 @@
-# Diabetes-prediction-model-using-logistic-regression
+# Diabetes prediction model using logistic regression
 
